@@ -1529,7 +1529,8 @@
             "Japanese Clothes"
         ],
         "ability": [
-            "【CONT】 If the character facing this card is level 3 or higher, this card gets +3000 power. 【CONT】 If the number of other 《Strange》 characters you have is two or more, this card gets \"【AUTO】 Encore [Put a character from your hand into your waiting room]\"."
+            "【CONT】 If the character facing this card is level 3 or higher, this card gets +3000 power.",
+            "【CONT】 If the number of other 《Strange》 characters you have is two or more, this card gets \"【AUTO】 Encore [Put a character from your hand into your waiting room]\"."
         ],
         "flavor_text": "Don't bother coming home. There's no home for you!",
         "set": "NM",
