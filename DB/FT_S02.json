@@ -1,7 +1,7 @@
 [
     {
         "name": "\"Heaven’s Wheel Armor\" Erza",
-        "code": "FT/S02-001",
+        "code": "FT/ENS02-001",
         "rarity": "RR",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -31,7 +31,7 @@
     },
     {
         "name": "Titania Erza",
-        "code": "FT/S02-002",
+        "code": "FT/ENS02-002",
         "rarity": "RR",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -61,7 +61,7 @@
     },
     {
         "name": "Fairy Tail Master, Makarov",
-        "code": "FT/S02-003",
+        "code": "FT/ENS02-003",
         "rarity": "R",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -88,7 +88,7 @@
     },
     {
         "name": "Magic Swordsman, Erza",
-        "code": "FT/S02-004",
+        "code": "FT/ENS02-004",
         "rarity": "R",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -115,7 +115,7 @@
     },
     {
         "name": "\"Black Winged Armor\" Erza",
-        "code": "FT/S02-005",
+        "code": "FT/ENS02-005",
         "rarity": "R",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -142,7 +142,7 @@
     },
     {
         "name": "Childhood Erza",
-        "code": "FT/S02-006",
+        "code": "FT/ENS02-006",
         "rarity": "R",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -168,7 +168,7 @@
     },
     {
         "name": "\"Infinity Robe\" Erza",
-        "code": "FT/S02-007",
+        "code": "FT/ENS02-007",
         "rarity": "R",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -197,7 +197,7 @@
     },
     {
         "name": "Childhood Jellal",
-        "code": "FT/S02-008",
+        "code": "FT/ENS02-008",
         "rarity": "U",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -224,7 +224,7 @@
     },
     {
         "name": "Ultra Close Type, Erza",
-        "code": "FT/S02-009",
+        "code": "FT/ENS02-009",
         "rarity": "U",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -252,7 +252,7 @@
     },
     {
         "name": "\"Parfum Magic\" Ichiya",
-        "code": "FT/S02-010",
+        "code": "FT/ENS02-010",
         "rarity": "U",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -279,7 +279,7 @@
     },
     {
         "name": "\"Flame Empress Armor\" Erza",
-        "code": "FT/S02-011",
+        "code": "FT/ENS02-011",
         "rarity": "U",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -306,7 +306,7 @@
     },
     {
         "name": "Little Fairy, Levy",
-        "code": "FT/S02-012",
+        "code": "FT/ENS02-012",
         "rarity": "U",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -332,7 +332,7 @@
     },
     {
         "name": "S-class Wizard, Mystogan",
-        "code": "FT/S02-013",
+        "code": "FT/ENS02-013",
         "rarity": "U",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -361,7 +361,7 @@
     },
     {
         "name": "Healing Wizard, Porlyusica",
-        "code": "FT/S02-014",
+        "code": "FT/ENS02-014",
         "rarity": "U",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -390,7 +390,7 @@
     },
     {
         "name": "Laxus's \"Grandpa\" Makarov",
-        "code": "FT/S02-015",
+        "code": "FT/ENS02-015",
         "rarity": "U",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -419,7 +419,7 @@
     },
     {
         "name": "Makarov's Grandson, Laxus",
-        "code": "FT/S02-016",
+        "code": "FT/ENS02-016",
         "rarity": "U",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -447,7 +447,7 @@
     },
     {
         "name": "Phantom Lord Master, Jose",
-        "code": "FT/S02-017",
+        "code": "FT/ENS02-017",
         "rarity": "U",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -476,7 +476,7 @@
     },
     {
         "name": "\"Seidhr Magic\" Bixlow",
-        "code": "FT/S02-018",
+        "code": "FT/ENS02-018",
         "rarity": "C",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -503,7 +503,7 @@
     },
     {
         "name": "\"Stone Eyes\" Evergreen",
-        "code": "FT/S02-019",
+        "code": "FT/ENS02-019",
         "rarity": "C",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -529,7 +529,7 @@
     },
     {
         "name": "\"The Reaper\" Erigor",
-        "code": "FT/S02-020",
+        "code": "FT/ENS02-020",
         "rarity": "C",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -555,7 +555,7 @@
     },
     {
         "name": "Aria of the Heavens",
-        "code": "FT/S02-021",
+        "code": "FT/ENS02-021",
         "rarity": "C",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -582,7 +582,7 @@
     },
     {
         "name": "\"Dark Ecriture\" Fried",
-        "code": "FT/S02-022",
+        "code": "FT/ENS02-022",
         "rarity": "C",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -608,7 +608,7 @@
     },
     {
         "name": "Tower of Heaven Ruler, Jellal",
-        "code": "FT/S02-023",
+        "code": "FT/ENS02-023",
         "rarity": "C",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -636,7 +636,7 @@
     },
     {
         "name": "Fairy Law",
-        "code": "FT/S02-024",
+        "code": "FT/ENS02-024",
         "rarity": "C",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -662,7 +662,7 @@
     },
     {
         "name": "And more importantly, live with an open heart",
-        "code": "FT/S02-025",
+        "code": "FT/ENS02-025",
         "rarity": "CR",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -691,7 +691,7 @@
     },
     {
         "name": "Heaven's Wheel, Scattered Petals",
-        "code": "FT/S02-026",
+        "code": "FT/ENS02-026",
         "rarity": "CR",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -721,7 +721,7 @@
     },
     {
         "name": "Circle Sword",
-        "code": "FT/S02-027",
+        "code": "FT/ENS02-027",
         "rarity": "CC",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -751,7 +751,7 @@
     },
     {
         "name": "Fairy Tail has come calling!!!!!!",
-        "code": "FT/S02-028",
+        "code": "FT/ENS02-028",
         "rarity": "CC",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -780,7 +780,7 @@
     },
     {
         "name": "Fairy Tail Wizard, Lucy",
-        "code": "FT/S02-029",
+        "code": "FT/ENS02-029",
         "rarity": "RR",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -809,7 +809,7 @@
     },
     {
         "name": "Celestial Wizard, Lucy",
-        "code": "FT/S02-030",
+        "code": "FT/ENS02-030",
         "rarity": "RR",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -839,7 +839,7 @@
     },
     {
         "name": "\"Unison Raid\" Lucy",
-        "code": "FT/S02-031",
+        "code": "FT/ENS02-031",
         "rarity": "R",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -865,7 +865,7 @@
     },
     {
         "name": "Rookie Wizard, Lucy",
-        "code": "FT/S02-032",
+        "code": "FT/ENS02-032",
         "rarity": "R",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -891,7 +891,7 @@
     },
     {
         "name": "My Determination, Lucy",
-        "code": "FT/S02-033",
+        "code": "FT/ENS02-033",
         "rarity": "R",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -917,7 +917,7 @@
     },
     {
         "name": "Beautiful Bond, Lucy",
-        "code": "FT/S02-034",
+        "code": "FT/ENS02-034",
         "rarity": "R",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -946,7 +946,7 @@
     },
     {
         "name": "Lucy Heartfilia",
-        "code": "FT/S02-035",
+        "code": "FT/ENS02-035",
         "rarity": "U",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -972,7 +972,7 @@
     },
     {
         "name": "With Special Friends, Lucy",
-        "code": "FT/S02-036",
+        "code": "FT/ENS02-036",
         "rarity": "U",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -998,7 +998,7 @@
     },
     {
         "name": "Aquarius the Water Bearer",
-        "code": "FT/S02-037",
+        "code": "FT/ENS02-037",
         "rarity": "U",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -1024,7 +1024,7 @@
     },
     {
         "name": "Former S-class Wizard, Mirajane",
-        "code": "FT/S02-038",
+        "code": "FT/ENS02-038",
         "rarity": "U",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -1050,7 +1050,7 @@
     },
     {
         "name": "Still a Rookie, Lucy",
-        "code": "FT/S02-039",
+        "code": "FT/ENS02-039",
         "rarity": "U",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -1076,7 +1076,7 @@
     },
     {
         "name": "Holder Wizard, Lucy",
-        "code": "FT/S02-040",
+        "code": "FT/ENS02-040",
         "rarity": "U",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -1105,7 +1105,7 @@
     },
     {
         "name": "Daughter of Heartfilia Family, Lucy",
-        "code": "FT/S02-041",
+        "code": "FT/ENS02-041",
         "rarity": "U",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -1134,7 +1134,7 @@
     },
     {
         "name": "\"Beast Arm\" Elfman",
-        "code": "FT/S02-042",
+        "code": "FT/ENS02-042",
         "rarity": "C",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -1160,7 +1160,7 @@
     },
     {
         "name": "Celestial Wizard, Angel",
-        "code": "FT/S02-043",
+        "code": "FT/ENS02-043",
         "rarity": "C",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -1186,7 +1186,7 @@
     },
     {
         "name": "Sol of the Earth",
-        "code": "FT/S02-044",
+        "code": "FT/ENS02-044",
         "rarity": "C",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -1212,7 +1212,7 @@
     },
     {
         "name": "Gate Key",
-        "code": "FT/S02-045",
+        "code": "FT/ENS02-045",
         "rarity": "C",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -1238,7 +1238,7 @@
     },
     {
         "name": "Celestial Spirit of the Zodiac Gates",
-        "code": "FT/S02-046Ari",
+        "code": "FT/ENS02-046Ari",
         "rarity": "C",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -1267,7 +1267,7 @@
     },
     {
         "name": "Celestial Spirit of the Zodiac Gates",
-        "code": "FT/S02-046Gem",
+        "code": "FT/ENS02-046Gem",
         "rarity": "C",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -1296,7 +1296,7 @@
     },
     {
         "name": "Celestial Spirit of the Zodiac Gates",
-        "code": "FT/S02-046Leo",
+        "code": "FT/ENS02-046Leo",
         "rarity": "C",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -1325,7 +1325,7 @@
     },
     {
         "name": "Celestial Spirit of the Zodiac Gates",
-        "code": "FT/S02-046Sgr",
+        "code": "FT/ENS02-046Sgr",
         "rarity": "C",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -1354,7 +1354,7 @@
     },
     {
         "name": "Celestial Spirit of the Zodiac Gates",
-        "code": "FT/S02-046Tau",
+        "code": "FT/ENS02-046Tau",
         "rarity": "C",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -1383,7 +1383,7 @@
     },
     {
         "name": "Celestial Spirit of the Zodiac Gates",
-        "code": "FT/S02-046Vir",
+        "code": "FT/ENS02-046Vir",
         "rarity": "C",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -1412,7 +1412,7 @@
     },
     {
         "name": "Changeling",
-        "code": "FT/S02-047",
+        "code": "FT/ENS02-047",
         "rarity": "C",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -1438,7 +1438,7 @@
     },
     {
         "name": "LOVE & LUCKY",
-        "code": "FT/S02-048",
+        "code": "FT/ENS02-048",
         "rarity": "C",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -1464,7 +1464,7 @@
     },
     {
         "name": "You did nothin' wrong!",
-        "code": "FT/S02-049",
+        "code": "FT/ENS02-049",
         "rarity": "CR",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -1493,7 +1493,7 @@
     },
     {
         "name": "Power of the Celestial Spirits",
-        "code": "FT/S02-050",
+        "code": "FT/ENS02-050",
         "rarity": "CC",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -1522,7 +1522,7 @@
     },
     {
         "name": "Forced Gate Closure",
-        "code": "FT/S02-051",
+        "code": "FT/ENS02-051",
         "rarity": "CC",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -1551,7 +1551,7 @@
     },
     {
         "name": "Dragon Force, Natsu",
-        "code": "FT/S02-052",
+        "code": "FT/ENS02-052",
         "rarity": "RR",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -1578,7 +1578,7 @@
     },
     {
         "name": "Fairy Tail Wizard, Natsu",
-        "code": "FT/S02-053",
+        "code": "FT/ENS02-053",
         "rarity": "RR",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -1607,7 +1607,7 @@
     },
     {
         "name": "Natsu & Happy",
-        "code": "FT/S02-054",
+        "code": "FT/ENS02-054",
         "rarity": "R",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -1635,7 +1635,7 @@
     },
     {
         "name": "Black Steel Gajeel",
-        "code": "FT/S02-055",
+        "code": "FT/ENS02-055",
         "rarity": "R",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -1662,7 +1662,7 @@
     },
     {
         "name": "A Place to Return to, Natsu",
-        "code": "FT/S02-056",
+        "code": "FT/ENS02-056",
         "rarity": "R",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -1690,7 +1690,7 @@
     },
     {
         "name": "Power of Allies, Natsu",
-        "code": "FT/S02-057",
+        "code": "FT/ENS02-057",
         "rarity": "R",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -1719,7 +1719,7 @@
     },
     {
         "name": "Erza Scarlet",
-        "code": "FT/S02-058",
+        "code": "FT/ENS02-058",
         "rarity": "U",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -1746,7 +1746,7 @@
     },
     {
         "name": "Oracion Seis Master, Zero",
-        "code": "FT/S02-059",
+        "code": "FT/ENS02-059",
         "rarity": "U",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -1775,7 +1775,7 @@
     },
     {
         "name": "Natsu Living on Instincts",
-        "code": "FT/S02-060",
+        "code": "FT/ENS02-060",
         "rarity": "U",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -1802,7 +1802,7 @@
     },
     {
         "name": "Flame Dragon, Igneel",
-        "code": "FT/S02-061",
+        "code": "FT/ENS02-061",
         "rarity": "U",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -1830,7 +1830,7 @@
     },
     {
         "name": "Problem Child, Natsu",
-        "code": "FT/S02-062",
+        "code": "FT/ENS02-062",
         "rarity": "C",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -1856,7 +1856,7 @@
     },
     {
         "name": "Oracion Seis",
-        "code": "FT/S02-063Ang",
+        "code": "FT/ENS02-063Ang",
         "rarity": "C",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -1883,7 +1883,7 @@
     },
     {
         "name": "Oracion Seis",
-        "code": "FT/S02-063Bra",
+        "code": "FT/ENS02-063Bra",
         "rarity": "C",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -1910,7 +1910,7 @@
     },
     {
         "name": "Oracion Seis",
-        "code": "FT/S02-063Cob",
+        "code": "FT/ENS02-063Cob",
         "rarity": "C",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -1937,7 +1937,7 @@
     },
     {
         "name": "Oracion Seis",
-        "code": "FT/S02-063Hot",
+        "code": "FT/ENS02-063Hot",
         "rarity": "C",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -1964,7 +1964,7 @@
     },
     {
         "name": "Oracion Seis",
-        "code": "FT/S02-063Mid",
+        "code": "FT/ENS02-063Mid",
         "rarity": "C",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -1991,7 +1991,7 @@
     },
     {
         "name": "Oracion Seis",
-        "code": "FT/S02-063Rac",
+        "code": "FT/ENS02-063Rac",
         "rarity": "C",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -2018,7 +2018,7 @@
     },
     {
         "name": "Great Fire Totomaru",
-        "code": "FT/S02-064",
+        "code": "FT/ENS02-064",
         "rarity": "C",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -2046,7 +2046,7 @@
     },
     {
         "name": "Flame Lotus Phoenix Sword",
-        "code": "FT/S02-065",
+        "code": "FT/ENS02-065",
         "rarity": "C",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -2072,7 +2072,7 @@
     },
     {
         "name": "Natsu vs. Zero",
-        "code": "FT/S02-066",
+        "code": "FT/ENS02-066",
         "rarity": "CR",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -2101,7 +2101,7 @@
     },
     {
         "name": "Iron Dragon Roar",
-        "code": "FT/S02-067",
+        "code": "FT/ENS02-067",
         "rarity": "CC",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -2130,7 +2130,7 @@
     },
     {
         "name": "Fairy Tail Wizard, Gray",
-        "code": "FT/S02-068",
+        "code": "FT/ENS02-068",
         "rarity": "RR",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -2159,7 +2159,7 @@
     },
     {
         "name": "Sky Dragon Slayer, Wendy",
-        "code": "FT/S02-069",
+        "code": "FT/ENS02-069",
         "rarity": "RR",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -2188,7 +2188,7 @@
     },
     {
         "name": "Ur's Student, Gray",
-        "code": "FT/S02-070",
+        "code": "FT/ENS02-070",
         "rarity": "R",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -2215,7 +2215,7 @@
     },
     {
         "name": "Juvia Loxar",
-        "code": "FT/S02-071",
+        "code": "FT/ENS02-071",
         "rarity": "R",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -2242,7 +2242,7 @@
     },
     {
         "name": "Wendy Marvell",
-        "code": "FT/S02-072",
+        "code": "FT/ENS02-072",
         "rarity": "R",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -2268,7 +2268,7 @@
     },
     {
         "name": "Clothes-removing Habit, Gray",
-        "code": "FT/S02-073",
+        "code": "FT/ENS02-073",
         "rarity": "R",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -2297,7 +2297,7 @@
     },
     {
         "name": "Fairy Tail Wizard, Juvia",
-        "code": "FT/S02-074",
+        "code": "FT/ENS02-074",
         "rarity": "R",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -2325,7 +2325,7 @@
     },
     {
         "name": "Gray Fullbuster",
-        "code": "FT/S02-075",
+        "code": "FT/ENS02-075",
         "rarity": "R",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -2354,7 +2354,7 @@
     },
     {
         "name": "\"A New Goal\" Gray",
-        "code": "FT/S02-076",
+        "code": "FT/ENS02-076",
         "rarity": "U",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -2380,7 +2380,7 @@
     },
     {
         "name": "Childhood Wendy",
-        "code": "FT/S02-077",
+        "code": "FT/ENS02-077",
         "rarity": "U",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -2406,7 +2406,7 @@
     },
     {
         "name": "Castle Wall of Ice, Gray",
-        "code": "FT/S02-078",
+        "code": "FT/ENS02-078",
         "rarity": "U",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -2432,7 +2432,7 @@
     },
     {
         "name": "Magic Cards, Cana",
-        "code": "FT/S02-079",
+        "code": "FT/ENS02-079",
         "rarity": "U",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -2459,7 +2459,7 @@
     },
     {
         "name": "\"Ur's Teachings\" Gray",
-        "code": "FT/S02-080",
+        "code": "FT/ENS02-080",
         "rarity": "U",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -2486,7 +2486,7 @@
     },
     {
         "name": "Gray's Teacher, Ur",
-        "code": "FT/S02-081",
+        "code": "FT/ENS02-081",
         "rarity": "U",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -2513,7 +2513,7 @@
     },
     {
         "name": "Maiden in Love, Juvia",
-        "code": "FT/S02-082",
+        "code": "FT/ENS02-082",
         "rarity": "U",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -2541,7 +2541,7 @@
     },
     {
         "name": "Gray's Determination",
-        "code": "FT/S02-083",
+        "code": "FT/ENS02-083",
         "rarity": "U",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -2568,7 +2568,7 @@
     },
     {
         "name": "\"Ur's Tears\" Ultear",
-        "code": "FT/S02-084",
+        "code": "FT/ENS02-084",
         "rarity": "U",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -2597,7 +2597,7 @@
     },
     {
         "name": "Phantom Wizard, Juvia",
-        "code": "FT/S02-085",
+        "code": "FT/ENS02-085",
         "rarity": "U",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -2626,7 +2626,7 @@
     },
     {
         "name": "\"Healing Spell\" Wendy",
-        "code": "FT/S02-086",
+        "code": "FT/ENS02-086",
         "rarity": "U",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -2655,7 +2655,7 @@
     },
     {
         "name": "Juvia of the Great Sea",
-        "code": "FT/S02-087",
+        "code": "FT/ENS02-087",
         "rarity": "C",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -2683,7 +2683,7 @@
     },
     {
         "name": "Cold Emperor, Lyon",
-        "code": "FT/S02-088",
+        "code": "FT/ENS02-088",
         "rarity": "C",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -2709,7 +2709,7 @@
     },
     {
         "name": "Cana Alberona",
-        "code": "FT/S02-089",
+        "code": "FT/ENS02-089",
         "rarity": "C",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -2735,7 +2735,7 @@
     },
     {
         "name": "Cait Shelter Master, Robaul",
-        "code": "FT/S02-090",
+        "code": "FT/ENS02-090",
         "rarity": "C",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -2761,7 +2761,7 @@
     },
     {
         "name": "Honest and Brave, Wendy",
-        "code": "FT/S02-091",
+        "code": "FT/ENS02-091",
         "rarity": "C",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -2787,7 +2787,7 @@
     },
     {
         "name": "Wendy's Caretaker, Carla",
-        "code": "FT/S02-092",
+        "code": "FT/ENS02-092",
         "rarity": "C",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -2813,7 +2813,7 @@
     },
     {
         "name": "\"Unison Raid\" Juvia",
-        "code": "FT/S02-093",
+        "code": "FT/ENS02-093",
         "rarity": "C",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -2839,7 +2839,7 @@
     },
     {
         "name": "Natsu's Friendly Rival, Gray",
-        "code": "FT/S02-094",
+        "code": "FT/ENS02-094",
         "rarity": "C",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -2865,7 +2865,7 @@
     },
     {
         "name": "Young Council Member, Siegrain",
-        "code": "FT/S02-095",
+        "code": "FT/ENS02-095",
         "rarity": "C",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -2893,7 +2893,7 @@
     },
     {
         "name": "Moon Drip",
-        "code": "FT/S02-096",
+        "code": "FT/ENS02-096",
         "rarity": "C",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -2920,7 +2920,7 @@
     },
     {
         "name": "Ice Geyser",
-        "code": "FT/S02-097",
+        "code": "FT/ENS02-097",
         "rarity": "CR",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -2949,7 +2949,7 @@
     },
     {
         "name": "Sky Dragon Roar",
-        "code": "FT/S02-098",
+        "code": "FT/ENS02-098",
         "rarity": "CR",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -2978,7 +2978,7 @@
     },
     {
         "name": "Ice Cannon",
-        "code": "FT/S02-099",
+        "code": "FT/ENS02-099",
         "rarity": "CC",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -3007,7 +3007,7 @@
     },
     {
         "name": "Water Lock",
-        "code": "FT/S02-100",
+        "code": "FT/ENS02-100",
         "rarity": "CC",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -3036,7 +3036,7 @@
     },
     {
         "name": "Guardian of Fairy Tail, Erza",
-        "code": "FT/S02-101",
+        "code": "FT/ENS02-101",
         "rarity": "R",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -3065,7 +3065,7 @@
     },
     {
         "name": "Girl Who Loves Celestial Spirits, Lucy",
-        "code": "FT/S02-102",
+        "code": "FT/ENS02-102",
         "rarity": "R",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -3094,7 +3094,7 @@
     },
     {
         "name": "Searching for Igneel, Natsu",
-        "code": "FT/S02-103",
+        "code": "FT/ENS02-103",
         "rarity": "R",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -3120,7 +3120,7 @@
     },
     {
         "name": "\"Dragon Egg\" Happy",
-        "code": "FT/S02-104",
+        "code": "FT/ENS02-104",
         "rarity": "R",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -3147,7 +3147,7 @@
     },
     {
         "name": "Silent Ice Make, Gray",
-        "code": "FT/S02-105",
+        "code": "FT/ENS02-105",
         "rarity": "R",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -3174,7 +3174,7 @@
     },
     {
         "name": "Fire Dragon Slayer, Natsu",
-        "code": "FT/S02-T01",
+        "code": "FT/ENS02-T01",
         "rarity": "TD",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -3203,7 +3203,7 @@
     },
     {
         "name": "Draw of Fairy Tail, Mirajane",
-        "code": "FT/S02-T02",
+        "code": "FT/ENS02-T02",
         "rarity": "TD",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -3230,7 +3230,7 @@
     },
     {
         "name": "Ice Make Wizard, Gray",
-        "code": "FT/S02-T03",
+        "code": "FT/ENS02-T03",
         "rarity": "TD",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -3256,7 +3256,7 @@
     },
     {
         "name": "Lisanna",
-        "code": "FT/S02-T04",
+        "code": "FT/ENS02-T04",
         "rarity": "TD",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -3282,7 +3282,7 @@
     },
     {
         "name": "Maid Look, Lucy",
-        "code": "FT/S02-T05",
+        "code": "FT/ENS02-T05",
         "rarity": "TD",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -3308,7 +3308,7 @@
     },
     {
         "name": "Literature Girl, Lucy",
-        "code": "FT/S02-T06",
+        "code": "FT/ENS02-T06",
         "rarity": "TD",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -3335,7 +3335,7 @@
     },
     {
         "name": "Cute Celestial User? Lucy",
-        "code": "FT/S02-T07",
+        "code": "FT/ENS02-T07",
         "rarity": "TD",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -3364,7 +3364,7 @@
     },
     {
         "name": "Ring Magic, Loke",
-        "code": "FT/S02-T08",
+        "code": "FT/ENS02-T08",
         "rarity": "TD",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -3392,7 +3392,7 @@
     },
     {
         "name": "DEAR KABY",
-        "code": "FT/S02-T09",
+        "code": "FT/ENS02-T09",
         "rarity": "TD",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -3421,7 +3421,7 @@
     },
     {
         "name": "Gajeel Redfoxx",
-        "code": "FT/S02-T10",
+        "code": "FT/ENS02-T10",
         "rarity": "TD",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -3447,7 +3447,7 @@
     },
     {
         "name": "Natsu Dragneel",
-        "code": "FT/S02-T11",
+        "code": "FT/ENS02-T11",
         "rarity": "TD",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -3473,7 +3473,7 @@
     },
     {
         "name": "Young Dragon, Natsu",
-        "code": "FT/S02-T12",
+        "code": "FT/ENS02-T12",
         "rarity": "TD",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -3499,7 +3499,7 @@
     },
     {
         "name": "Natsu's Partner, Happy",
-        "code": "FT/S02-T13",
+        "code": "FT/ENS02-T13",
         "rarity": "TD",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -3526,7 +3526,7 @@
     },
     {
         "name": "Childhood Natsu & Happy",
-        "code": "FT/S02-T14",
+        "code": "FT/ENS02-T14",
         "rarity": "TD",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -3553,7 +3553,7 @@
     },
     {
         "name": "Fire Wizard, Natsu",
-        "code": "FT/S02-T15",
+        "code": "FT/ENS02-T15",
         "rarity": "TD",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -3579,7 +3579,7 @@
     },
     {
         "name": "Dragon Power, Natsu",
-        "code": "FT/S02-T16",
+        "code": "FT/ENS02-T16",
         "rarity": "TD",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -3608,7 +3608,7 @@
     },
     {
         "name": "Armor Wizard, Erza",
-        "code": "FT/S02-T17",
+        "code": "FT/ENS02-T17",
         "rarity": "TD",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -3636,7 +3636,7 @@
     },
     {
         "name": "S-class Quest",
-        "code": "FT/S02-T18",
+        "code": "FT/ENS02-T18",
         "rarity": "TD",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -3662,7 +3662,7 @@
     },
     {
         "name": "Fire Dragon Roar",
-        "code": "FT/S02-T19",
+        "code": "FT/ENS02-T19",
         "rarity": "TD",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
@@ -3691,7 +3691,7 @@
     },
     {
         "name": "Fire Dragon Brilliant Flame",
-        "code": "FT/S02-T20",
+        "code": "FT/ENS02-T20",
         "rarity": "TD",
         "expansion": "FAIRY TAIL ver.E",
         "side": "S",
